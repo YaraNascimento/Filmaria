@@ -1,7 +1,7 @@
 
 # Projeto Filmaria(Udemy)
 
-Adapatado somente para computador
+Adaptado somente para computador
 
 # Link do surge: 
 
