@@ -1,6 +1,8 @@
 
 # Projeto Filmaria(Udemy)
 
+Adapatado somente para computador
+
 # Link do surge: 
 
 https://stingy-card.surge.sh/
