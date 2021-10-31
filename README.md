@@ -23,7 +23,6 @@ O que funciona no projeto: consegue listar todos os filmes, consegue acessar um 
 ![Captura de Tela 2021-10-30 às 23 53 25](https://user-images.githubusercontent.com/83086134/139564999-20e79be2-ba28-4a9e-b278-11a290462314.png)
 ![Captura de Tela 2021-10-31 às 00 01 10](https://user-images.githubusercontent.com/83086134/139565351-324648f0-3dc9-4dca-825d-695fd83e9dcc.png)
 ![Captura de Tela 2021-10-31 às 00 01 18](https://user-images.githubusercontent.com/83086134/139565356-da4fbd36-2fc4-4015-96af-a1456a5badbf.png)
-![Captura de Tela 2021-10-31 às 00 01 27](https://user-images.githubusercontent.com/83086134/139565360-d843acef-0810-43d1-ae91-139e9476c406.png)
 ![Captura de Tela 2021-10-31 às 00 01 45](https://user-images.githubusercontent.com/83086134/139565365-e8ad0ea4-4d4c-4a5e-8501-b9071f407ff1.png)
 ![Captura de Tela 2021-10-31 às 00 03 25](https://user-images.githubusercontent.com/83086134/139565369-bd03ec16-822e-4eb9-a5db-5a051885b918.png)
 # Projeto Filmaria
